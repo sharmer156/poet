@@ -1,7 +1,7 @@
 # poet
 我是“小诗姬”，全唐诗作为训练数据。可以写押韵自由诗、藏头诗、给定若干字作为主题的诗。
 <br /> <br /> 
-环境要求：
+环境要求：windows 10和unbuntu都正常运行
 ---
 python:3.x <br /> 
 tensorflow  1.x
