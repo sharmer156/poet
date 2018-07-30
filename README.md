@@ -8,7 +8,8 @@ tensorflow  1.x
 缺少库 word2vec
 
 使用
-'conda install word2vec'
+```conda install word2vec
+```
 安装
 <br /> <br /> 
 运行<br /> 
