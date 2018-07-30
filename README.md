@@ -55,8 +55,12 @@ if  start_with:
  ```           
  ---
  http://127.0.0.1:5000/poem?style=1             # 自由写诗
+ 
  http://127.0.0.1:5000/poem?style=2             # 押韵写诗
+ 
  http://127.0.0.1:5000/poem?style=3&start=      # 藏头写诗
+ 
   http://127.0.0.1:5000/poem?style=4&start=     # 隐字写诗（藏头中的一个字 押韵写诗）
+  
 如有问题欢迎讨论 xiuyunchen@126.com
 
